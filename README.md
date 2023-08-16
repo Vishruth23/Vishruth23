@@ -3,7 +3,8 @@
 ## About
 
 -  Integrated MTech CSE Student - IIIT Bangalore
--  I'm currently learning : Git, JS
+-  I'm currently working on an application that will help solve crowding issues in my college cafeteria.
+-  Recently learnt : Bootstrap, Javascript
 -  Looking to make some open source contributions
 
 ## Stats
@@ -21,6 +22,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/documentation/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/getting-started/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### IDEs/Editors
 
