@@ -45,5 +45,6 @@
 
 [![Web Scraping Project](https://github-readme-stats.vercel.app/api/pin/?username=Vishruth23&repo=Web-Scraping-Project&show_owner=true&theme=dark)](https://github.com/Vishruth23/Web-Scraping-Project)
 [![Order Management App(Cafeteria)](https://github-readme-stats.vercel.app/api/pin/?username=Vishruth23&repo=zense_app&show_owner=true&theme=dark)](https://github.com/Vishruth23/zense_app)
+[![Covid Vaccination Scheduler App](https://github-readme-stats.vercel.app/api/pin/?username=Vishruth23&repo=Vaccine-Scheduler&show_owner=true&theme=dark)](https://github.com/Vishruth23/Vaccine-Scheduler)
 
 
