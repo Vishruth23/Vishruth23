@@ -4,7 +4,7 @@
 
 -  Integrated MTech CSE Student - IIIT Bangalore
 -  I'm currently working on an application that will help solve crowding issues in my college cafeteria.
--  Recently learnt : Bootstrap, Javascript
+-  Recently learnt : Javascript, Firebase
 -  Looking to make some open source contributions
 
 ## Stats
